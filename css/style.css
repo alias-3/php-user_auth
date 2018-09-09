@@ -1,0 +1,27 @@
+.navbar-custom{
+	background-color: black;
+	opacity: 0.75;
+	box-shadow: 0 3px 3px 0 rgba(0,0,0,0.4), 0 0 0 2px rgba(0,0,0,0.08);
+}
+
+#content{
+	margin: 7em 3em 3em 3em; 
+}
+
+nav  .glyphicon{
+ 	color: white;
+}
+nav .glyphicon:hover{
+	color: blue;
+	font-size: 1.2em;
+	cursor: pointer;
+}
+
+.form-control{
+	width: 95%;
+}
+
+.navbar-brand{
+	color: white;
+	float: left;
+}
